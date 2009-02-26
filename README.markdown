@@ -10,3 +10,8 @@ Todo
 
 * Inheritance--either have structs extend each other or duplicate the properties in each
 
+Disclaimer
+==========
+
+* I haven't actually used `structgen.jar`--I've just been prototyping the concept from the StructgenExamples Eclipse project, which runs via the Structgen project.
+
